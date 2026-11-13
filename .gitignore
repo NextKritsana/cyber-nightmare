@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+node_modules/
+*.pyc
+# voice files stay private (Moon's voice is a private clone)
+*.mp3
+*.wav
+*.aiff
+*.m4a
+renders/
+tts/
+voice/
